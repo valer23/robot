@@ -40,7 +40,7 @@ What we do here:
 - management of parameters to size properly the map (floorplan) et initialize the position of the Turtlebot with Stage
 
 
-  ```xml
+```xml
 floorplan
 (
 	  name "Etage3_14"
@@ -54,7 +54,7 @@ turtlebot
   name "turtlebot"
   color "black"
 )
-  ```
+```
 
 ### 3) In the folder launch : to run the map of the 3rd floor
 
