@@ -213,7 +213,7 @@ Comments :
 
 
 
-## II. REAL MAPPING REEL AU 3ETAGE AVEC LE ROBOT TURTLEBOT
+## II. REAL MAPPING WITH TURTLEBOT AT THE 3rd FLOOR
 
 ### 1) Connection between the turtlebot laptop and the computer
 
