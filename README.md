@@ -786,11 +786,9 @@ To use those scripts you will need to install some python libraries on both comp
 - numpy
 
 [
-
 I would advice you to install all of those libraries into a python virtual environnement.
 - virtualenv
 - virtualenvwrapper
-
 ]
 
 #### Configuration of the communication
